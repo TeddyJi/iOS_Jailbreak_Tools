@@ -1,0 +1,9 @@
+GreenPoison is an iOS 4.2.1 jailbreak tool. Loader instead of Cydia. idk because I failed the jailbreak lol.
+Nah. No easter eggs here. Only the GreenPoison.
+
+There are two other tools. They are "Home Depot" and "Meridian". I haven't check them yet.
+I knew one of them is jailbreak for iOS 10.
+And the other one is Semi-Untethered jailbreak for 9.0 to 9.3.4.
+I didn't check Meridian and idk is it untethered or not. And idk is it from 10.0 to what version.
+Yah. Before unc0ver was out. There had been a tool called Electra. For iOS 11.0 to 11.2 maybe. This tool contains Sileo such as chimera.
+idk this tool's tethered or untethered because I had failed the jailbreak for serveral times and I had given up this tool.
