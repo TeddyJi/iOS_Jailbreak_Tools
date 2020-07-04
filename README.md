@@ -12,7 +12,7 @@ Description and tools:
 | EtasonJB   | iOS 8.4.1 Jailbreak tools. Untethered or tethered, is your luck. | [Website](https://etasonjb.tihmstar.net/)                    |
 | Phoenix    | iOS 9.3.5 to 9.3.6 Jailbreak. 32bit only. Semi-Untethered only. | [Website](https://phoenixpwn.com/)                           |
 | H3lix      | iOS 10.x Jailbreak tool                                      | [Website](https://h3lix.tihmstar.net/)                       |
-| Unc0ver    | Tethered jailbreak iOS 11.0 all the way to iOS 12.2 and 12.4 | [Standard(Dev)](https://unc0ver.dev/)  [DarkVer(Themed)](https://github.com/nqcshady/unc0ver-dark/releases) |
+| Unc0ver    | Semi-untethered jailbreak iOS 11.0 all the way to iOS 12.2, 12.4 and iOS 13.0 to 13.5 | [Dev](https://unc0ver.dev/)|
 | Chimera    | Your device, your way. iOS 12.0 to 12.2 and 12.4 modern true jailbreak | [Website](https://chimera.sh/)                               |
 
 Other Tweaks:
