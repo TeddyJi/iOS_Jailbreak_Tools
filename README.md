@@ -19,12 +19,12 @@ Other Tweaks:
 
 
 
-| Tools      | Description                           | Status                                  |
+| Tools      | Description                           | Link                                    |
 | ---------- | ------------------------------------- | --------------------------------------- |
-| Checkra1n  | It is iOS jailbreak based on checkm8. | 8ps9a                                   |
-| Home Depot | iOS 9.0 to 9.3.4 Mixtape Player       | [9aps4](http://wall.supplies/)          |
-| Meridian   | iOS 10.x Jailbreak                    | [k9ds3](https://meridian.sparkes.zone/) |
+| Checkra1n  | It is iOS jailbreak based on checkm8. | [macOS](https://checkra.in/) [Others](https://github.com/foxlet/bootra1n/releases)|
+| Home Depot | iOS 9.0 to 9.3.4 Mixtape Player       | [Web](http://wall.supplies/)            |
+| Meridian   | iOS 10.x Jailbreak                    | [Web](https://meridian.sparkes.zone/)   |
 
 
 
-###### Our github is only a description of the jailbreak things. Only links are here except for something.
+###### ! Our github is only a description of the jailbreak things. Only provides links and not for illegal uses !
