@@ -1,4 +1,4 @@
-## iOS 3.1.3~12.4 Jailbreak Stuffs
+## iOS 3.1.3 or later Jailbreak Stuffs
 
 Description and tools:
 
