@@ -22,7 +22,6 @@ Other Tweaks:
 | ---------- | ------------------------------------- | --------------------------------------- |
 | Checkra1n  | It is iOS jailbreak based on checkm8. | [macOS](https://checkra.in/) [Others](https://github.com/foxlet/bootra1n/releases)|
 | Home Depot | iOS 9.0 to 9.3.4 Mixtape Player       | [Web](http://wall.supplies/)            |
-| Meridian   | iOS 10.x Jailbreak                    | [Web](https://meridian.sparkes.zone/)   |
 | Chimera    | iOS 12.0 to 12.2 and 12.4 jailbreak   | [Web](https://chimera.sh/)              |
 
 
