@@ -13,6 +13,7 @@ Description and tools:
 | Phoenix    | iOS 9.3.5 to 9.3.6 Jailbreak. 32bit only. Semi-Untethered only. | [Website](https://phoenixpwn.com/)                           |
 | H3lix      | iOS 10.x Jailbreak tool                                      | [Website](https://h3lix.tihmstar.net/)                       |
 | Unc0ver    | Semi-untethered jailbreak iOS 11.0 all the way to iOS 12.2, 12.4 and iOS 13.0 to 13.5 | [Dev](https://unc0ver.dev/)|
+| Odyssey    | Semi-untethered jailbreak iOS 13.X | [Dev](https://theodyssey.dev/)|
 
 Other Tweaks:
 
