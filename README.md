@@ -22,7 +22,7 @@ Other Tweaks:
 
 | Tools      | Description                           | Link                                    |
 | ---------- | ------------------------------------- | --------------------------------------- |
-| Checkra1n  | It is iOS jailbreak based on checkm8. | [macOS](https://checkra.in/) [Others](https://github.com/foxlet/bootra1n/releases)|
+| Checkra1n  | It is iOS jailbreak based on checkm8. | [Web](https://checkra.in/)              |
 | Home Depot | iOS 9.0 to 9.3.4 Mixtape Player       | [Web](http://wall.supplies/)            |
 
 
