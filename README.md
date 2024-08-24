@@ -1,4 +1,4 @@
-## iOS 3.1.3 or later Jailbreak Stuffs
+## This page is obsolete. Use canijalbreak from jailbreak discord instead!
 
 Description and tools:
 
